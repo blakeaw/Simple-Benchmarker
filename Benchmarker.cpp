@@ -20,7 +20,7 @@ input flags:
 using namespace std;
 
 // Define Classes
-#include "/net/uu/nm/cm/bxw109120/src/SimulationCpp/class/RunningStats.h"
+#include "RunningStats.h"
 // Prototype Functions
 int stoi( string input);
 char *getcwd(char *buf, size_t size);
